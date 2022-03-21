@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![SkillIcons](https://skillicons.dev/icons?i=java,jenkins,grafana,prometheus,nginx,aws,ansible,docker,git,idea,discord,js)](https://skillicons.dev)<br/>
+
+
 <!--
 **sorobon/sorobon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
